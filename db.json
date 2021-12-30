@@ -1,0 +1,25 @@
+{
+    "user": [
+        {
+            "name": "shuvro",
+            "address": "lalbag",
+            "email": "shuvro@gmail.com",
+            "contact": "016******",
+            "id": 1
+        },
+        {
+            "name": "baset",
+            "address": "lalbag",
+            "email": "shuvro@gmail.com",
+            "contact": "016******",
+            "id": 1
+        },
+        {
+            "name": "dipto",
+            "address": "lalbag",
+            "email": "shuvro@gmail.com",
+            "contact": "016******",
+            "id": 1
+        }
+    ]
+}
